@@ -11,4 +11,6 @@ The synthesized Verilog code was uploaded to Innovus software along with the .LE
 DRC, LVS, and PEX Checks: The design went through standard checks to ensure it met the necessary design rules, and was structurally and electrically sound. HSPICE Simulation: Waveforms were generated under various conditions to analyze the performance of the circuit. Specific setups in HSPICE were used to simulate the circuit and generate output waveforms.
 
 # AEDP Calculation
-Area Calculation: The total area occupied by the cell layout. Energy and Delay: Measurement of the energy consumption and delay, which influence the performance of the designed circuit. AEDP Metric: Calculation of Area-Energy-Delay Product to gauge the efficiency of the design.
+Area Calculation: The total area occupied by the cell layout. Energy and Delay: Measurement of the energy consumption and delay, which influence the performance of the designed circuit. 
+
+AEDP Metric: Calculation of Area-Energy-Delay Product to gauge the efficiency of the design.
